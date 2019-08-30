@@ -84,4 +84,4 @@ pip install parl
 
 <img src="https://paddle-parl.bj.bcebos.com/NeurlIPS2018.gif" width = "300" height ="200" alt="NeurlIPS2018"/> <img src="https://paddle-parl.bj.bcebos.com/Half-Cheetah.gif" width = "300" height ="200" alt="Half-Cheetah"/> <img src="https://paddle-parl.bj.bcebos.com/Breakout.gif" width = "200" height ="200" alt="Breakout"/>
 <br>
-<img src="https://paddle-parl.bj.bcebos.com/Aircraft.gif "  width = "808" height ="300"  alt="NeurlIPS2018"/>
+<img src="https://paddle-parl.bj.bcebos.com/Aircraft.gif"  width = "808" height ="300"  alt="NeurlIPS2018"/>
